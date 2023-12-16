@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/faisalrafi/static/css/main.bf538fe7.css",
+    "main.js": "/faisalrafi/static/js/main.93a279fb.js",
+    "static/media/HeroImage.jpg": "/faisalrafi/static/media/HeroImage.b0c5b19f3aaa6ecabc95.jpg",
+    "index.html": "/faisalrafi/index.html",
+    "main.bf538fe7.css.map": "/faisalrafi/static/css/main.bf538fe7.css.map",
+    "main.93a279fb.js.map": "/faisalrafi/static/js/main.93a279fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.93a279fb.js"
+  ]
+}
