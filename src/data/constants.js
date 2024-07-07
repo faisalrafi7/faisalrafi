@@ -8,7 +8,7 @@ export const Bio = {
       "I am an enthusiastic and adaptable individual, consistently seeking new opportunities to grow. Fueled by a strong passion for continuous learning, I am committed to producing top-notch outcomes. With a positive outlook and a mindset geared towards growth, I am poised to make a significant impact and accomplish remarkable feats.",
     github: "https://github.com/faisalrafi7",
     resume:
-      "https://drive.google.com/file/d/1q8yY3ExiiiawM7dWBSnl0VsskQE1b4as/view?usp=sharing",
+      "https://drive.google.com/file/d/13tafXvcAYQuUJVJob5vdntN9ymR4XRRK/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/faisal-rafi-2b9a11225/",
     insta: "https://www.instagram.com/faisal_rafi7/",
     facebook: "https://www.facebook.com/faisalrafi4269",
